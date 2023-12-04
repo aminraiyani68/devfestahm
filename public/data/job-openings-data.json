@@ -231,6 +231,29 @@
           "experience": "-"
         }
       ]
-    }
+    },
+     {
+      "id": 5,
+      "companyName": "Amilek Consultancy",
+      "location": "Ahmedabad, India",
+      "bio": "Amilek Consultancy is a leading IT solutions provider specializing in Frontend and Backend development services. With a team of highly skilled professionals, we deliver innovative and customized solutions to meet the diverse needs of our clients. Our frontend development services focus on creating engaging user interfaces and seamless user experiences across multiple platforms. Meanwhile, our backend development expertise ensures robust and scalable systems that power the core functionalities of applications. We combine cutting-edge technologies, industry best practices, and a client-centric approach to deliver top-notch solutions that drive business growth. Join us in transforming ideas into reality and unlocking the true potential of your digital presence.",
+      "companyLogoUrl": "http://www.amilekconsultancy.com/images/logo.png",
+      "companyWebsite": "https://www.amilekconsultancy.com/",
+      "companyCareerPage": "",
+      "linkedin": "https://www.linkedin.com/company/amilekconsultancy",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Frontend Web Developer",
+          "count": 2,
+          "experience": "0 to 3 Years experience"
+        },
+        {
+          "title": "UI/UX Designer",
+          "count": 2,
+          "experience": "0 to 1 Year experience"
+        },
+      ]
+    },
   ]
 }
